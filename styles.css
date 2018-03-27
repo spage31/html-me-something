@@ -1,0 +1,58 @@
+body {
+	background: lightblue;
+	font-family: Arial;
+}
+
+h1 {
+	color: white;
+	font-family: Calibri;
+	font-size: 42px;
+}
+h2 {
+	background: white;
+}
+
+article {
+	
+	background: white;
+	padding-bottom: 25px;
+	
+}
+
+.vs {
+	font-family: verdana;
+	margin-left: 250px;
+}
+
+.esi {
+	margin-right: 250px;
+
+}
+
+.esi p {
+	
+}
+.frb {
+	font-family: Arial;
+	width: 1180px;
+	margin-right:;
+}
+
+p {
+	width: 700px;
+	background: white;
+	margin-left: 150px;
+
+
+}
+img {
+	width: 700px;
+	border: 12px solid black;
+	margin-left: 150px;
+	
+}
+
+footer p {
+	margin-left: 500px
+	border: 12px solid orange;
+}
